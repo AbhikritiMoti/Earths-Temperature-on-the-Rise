@@ -10,7 +10,7 @@ By presenting the data in a visually appealing and accessible format, this proje
 ## Analysis
 Data shows that the planet is getting hotter when measured by the annual deviations from the 1951-1980 mean temperature. This is used as a baseline for measurement. The chart highlights each annual temperature deviation from this baseline from 1880 to 2020 and shows that temperatres have risen significantly over the period causing the earth to become hotter.
 
-Furthermore, the visualization may incorporate additional elements such as color gradients, annotations, and interactive features to enhance the user experience. These elements can help to highlight specific milestones, notable events, or significant shifts in temperature trends, further emphasizing the gravity of the situation.
+Furthermore, the visualization incorporate additional elements such as color gradients, annotations, and interactive features to enhance the user experience. These elements can help to highlight specific milestones, notable events, or significant shifts in temperature trends, further emphasizing the gravity of the situation.
 
 Ultimately, the goal of this visualization is to facilitate a deeper understanding of the increasing temperatures on Earth, fostering engagement and encouraging individuals and communities to take meaningful action in combatting climate change and preserving our planet for future generations.
 
