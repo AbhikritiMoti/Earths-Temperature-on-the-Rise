@@ -10,7 +10,7 @@ By presenting the data in a visually appealing and accessible format, this proje
 ## Analysis
 Data shows that the planet is getting hotter when measured by the annual deviations from the 1951-1980 mean temperature. This is used as a baseline for measurement. The chart highlights each annual temperature deviation from this baseline from 1880 to 2020 and shows that temperatres have risen significantly over the period causing the earth to become hotter.
 
-## Dashboard 
+## Interactive Dashboard in Tableau 
 
 ![tableau_CDkI9ZPhOG](https://github.com/AbhikritiMoti/Earths-Temperature-on-the-Rise/assets/73769937/8a0b65f0-54be-48e7-866a-b117ffc2fbb3)
 
