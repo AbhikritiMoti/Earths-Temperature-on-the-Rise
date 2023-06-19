@@ -12,7 +12,6 @@ Data shows that the planet is getting hotter when measured by the annual deviati
 
 Furthermore, the visualization incorporate additional elements such as color gradients, annotations, and interactive features to enhance the user experience. These elements can help to highlight specific milestones, notable events, or significant shifts in temperature trends, further emphasizing the gravity of the situation.
 
-Ultimately, the goal of this visualization is to facilitate a deeper understanding of the increasing temperatures on Earth, fostering engagement and encouraging individuals and communities to take meaningful action in combatting climate change and preserving our planet for future generations.
 
 ## Interactive Dashboard in Tableau 
 
