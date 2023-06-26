@@ -1,6 +1,5 @@
 # Visualizing Earth's Rising Temperatures using Tableau
 
-
 ## Overview
 In an era where climate change is a pressing global issue, understanding the impact of rising temperatures on Earth is crucial. With advancements in data visualization tools like Tableau, it has become easier to analyze and communicate complex data effectively. This project seeks to visualize the alarming trend of Earth's increasing temperatures using Tableau, providing a comprehensive overview of the temperature rise over time. The visualization encompasses historical temperature data from reliable sources, capturing trends over several decades. By displaying this data in an engaging and intuitive manner, it allows viewers to grasp the profound impact of rising temperatures and its implications for our environment, ecosystems, and society as a whole.
 
